@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis
+# E-Commerce Sales-Performance-Analysis
 
 **Overview** : This project analyses e-commerce sales data to understand overall sales performance, profitability, product category performance, customer segments, and regional trends.
 
