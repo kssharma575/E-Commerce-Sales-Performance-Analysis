@@ -1,10 +1,13 @@
 # Sales-Performance-Analysis
 
-**Overview** : This project involves analyzing bike sales data across various regions and occupations with the objective of creating an interactive Excel dashboard that provides insights into bike sales trends.
+**Overview** : This project analyses e-commerce sales data to understand overall sales performance, profitability, product category performance, customer segments, and regional trends.
+
+The objective is to transform raw sales data into meaningful business insights using Excel.
 
 **Technologies Used** : Microsoft Excel
 
 **Steps**
+
 Data Cleaning: Removed duplicates from the dataset.
 Data Transformation: Created custom columns to extract additional information.
 Data Visualization: Utilized PivotTables, Charts, and Graphs to visually summarize the data.
